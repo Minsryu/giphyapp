@@ -1,0 +1,64 @@
+*{
+	box-sizing: border-box;
+	margin: 0 auto;
+}
+
+.btn,
+#add-button {
+	font-size: 16px;
+	margin: 0 2px;
+	height: 40px;
+	width: auto;
+	padding: 0 20px;
+	border-radius: 10px;
+	background-color: black;
+	color:white;
+}
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0 20px;
+	overflow: auto;
+}
+
+#button-placement {
+	overflow: auto;
+	padding: 20px 0;
+}
+
+#gif-upload {
+	float: left;
+	max-width: 530px;
+	padding: 10px;
+
+}
+
+.gif-upload{
+	width: 200px;
+	float:left;
+	margin: 0 20px;
+}
+
+.box {
+	/*display: inline-block;*/
+	width: 200px;
+	float: left;
+}
+
+#text-container{
+	border: 1px solid black;
+	width: 350px;
+	float: right;
+	padding: 10px;
+	margin:0 auto;
+}
+
+#text-field {
+	height: 30px;
+	width: 100%;
+	font-size:14px;
+	margin-bottom: 5px;
+}
+
+
